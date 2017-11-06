@@ -1,0 +1,55 @@
+
+body{
+	margin:0px;
+}
+
+nav {
+    
+    font-family: Arial;
+    font-size: 100%;
+    width:100%;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #14141f;
+    position:fixed;
+}
+
+.topnav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.navright li{
+    float: right;
+    margin-right: 50;
+    display:inline-flex;
+    padding-top: 1em;
+    padding-left: 5em;
+}
+
+.navleft li{
+	float:left;
+	margin-left:50;
+	display:inline-flex;
+	padding-top: 1em;
+	padding-right:5em;
+}
+
+.navimg {
+		 
+		
+		vertical-align: middle;
+		
+		}
+
+.navimg img{
+
+		height:50px;
+		width:50px;
+		}
+
+
+
